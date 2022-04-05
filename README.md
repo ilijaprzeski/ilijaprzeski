@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web and Mobile application development
 - 🌱 I have strong native mobile skills and amazing javascript skills.
 - 💞️ I’m looking to collaborate on these web & mobile areas.
-- 📫 Email: babybear.bb1122@gmail.com
+- 📫 Email: ilijaprzeski0601@gmail.com
 
 <!---
 ilijaprzeski/ilijaprzeski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
